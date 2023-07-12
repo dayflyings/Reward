@@ -67,7 +67,7 @@ Find all transactions based on user_id
 Create a transaction based on request body
 
 
-RequestBody example: ```{"id": 4, "value": 200, "userId": 1, "createdTime": "2022-01-02"}```
+RequestBody example: ```{"id": 4, "value": 200, "userId": 1, "createdTime": "2023-07-12"}```
 
 ## Additional Information
 Current project host on ```localhost:8009```. To change port, modify ```application.properities```.
